@@ -1,7 +1,10 @@
 # Store Locator Challenge
 
-The store locator is a web application that locates starbucks in Los Angeles.
+This is a 5 Day Javascript Challenge project put forth by Clever Programmer team. 
 
+The task was to create a basic store locating web application using HTML, CSS and JavaScript. 
+
+Clever Programmer Youtube Channel: (https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 
 ## TODO 
  * Day 1 of coding:
